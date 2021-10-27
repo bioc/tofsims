@@ -20,7 +20,7 @@ INTERNALS
   - completed some roxygen/rd docs
 
 
-CHANGES in Version 099.1 [19.10.2015]
+CHANGES in Version 0.99.1 [19.10.2015]
 -------------------------------------
 SIGNIFICANT USER-VISIBLE CHANGES
   - changed function behvaiour in the whole
