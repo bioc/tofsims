@@ -2,7 +2,7 @@ Package: tofsims
 Type: Package
 Title: Import, process and analysis of Time-of-Flight Secondary Ion Mass Spectrometry
           (ToF-SIMS) imaging data
-Version: 1.23.0
+Version: 1.23.1
 Author: Lorenz Gerber, Viet Mai Hoang
 Maintainer: Lorenz Gerber <genfys@gmail.com>
 Depends: R (>= 3.3.0), methods, utils, ProtGenerics
@@ -27,3 +27,4 @@ Encoding: UTF-8
 NeedsCompilation: yes
 URL: https://github.com/lorenzgerber/tofsims
 BugReports: https://github.com/lorenzgerber/tofsims/issues
+PackageStatus: Deprecated
